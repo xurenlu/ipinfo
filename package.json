@@ -1,0 +1,4 @@
+{
+  "name": "cloudflare-ip-worker",
+  "packageManager": "yarn@4.9.2"
+}

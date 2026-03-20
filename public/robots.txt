@@ -1,0 +1,13 @@
+# robots.txt - IP Info Service
+
+User-agent: *
+Allow: /
+
+# 允许 AI 爬虫访问 LLM 索引文件
+Allow: /llms.txt
+Allow: /llm.txt
+
+# 禁止访问私有文件（如果有的话）
+# Disallow: /private/
+
+Sitemap: https://ip-info-service.your-subdomain.workers.dev/sitemap.xml
