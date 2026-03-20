@@ -2,6 +2,12 @@
 
 一个基于 Cloudflare Workers 的轻量级 IP 信息查询服务，**对 AI 和 LLM 友好** 🤖
 
+## 在线体验
+
+部署后访问：`https://ip-info-service.your-subdomain.workers.dev`
+
+GitHub 仓库：[https://github.com/xurenlu/ipinfo](https://github.com/xurenlu/ipinfo)
+
 ## 功能特性
 
 - 🌍 返回访问者的 IPv4 地址
